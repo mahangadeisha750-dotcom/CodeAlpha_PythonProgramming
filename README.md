@@ -25,6 +25,10 @@ Technologies Used
 - Python 3
 - Pydroid 3
 
+## Project Demo Video
+
+[Watch Project Demo Video](https://github.com/mahangadeisha750-dotcom/CodeAlpha_PythonProgramming/blob/main/Project_Demo_Video.mp4.mp4)
+
 Author
 
 Isha Suhas Mahangade
