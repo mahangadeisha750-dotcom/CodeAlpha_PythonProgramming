@@ -1,0 +1,11 @@
+Welcome to My Chatbot!
+You: Hello
+Bot: Hi! How can I help you?
+You: How are you
+Bot: I'm fine, thank you!
+You: what are you doing now
+Bot: Sorry, I don't understand.
+You: bye
+Bot: Goodbye!
+
+[Program finished]

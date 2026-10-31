@@ -1,0 +1,67 @@
+Welcome to Hangman Game!
+Guess the word one letter at a time.
+
+Word: _ _ _ _ _ _
+Wrong guesses left: 6
+Enter a letter: e
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Wrong guesses left: 5
+Enter a letter: r
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Wrong guesses left: 4
+Enter a letter: c
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Wrong guesses left: 3
+Enter a letter: a
+Wrong guess!
+
+Word: _ _ _ _ _ _
+Wrong guesses left: 2
+Enter a letter: p
+Correct guess!
+
+Word: p _ _ _ _ _
+Wrong guesses left: 2
+Enter a letter: e
+You already guessed this letter.
+
+Word: p _ _ _ _ _
+Wrong guesses left: 2
+Enter a letter: o
+Correct guess!
+
+Word: p _ _ _ o _
+Wrong guesses left: 2
+Enter a letter: l
+Wrong guess!
+
+Word: p _ _ _ o _
+Wrong guesses left: 1
+Enter a letter: e
+You already guessed this letter.
+
+Word: p _ _ _ o _
+Wrong guesses left: 1
+Enter a letter: r
+You already guessed this letter.
+
+Word: p _ _ _ o _
+Wrong guesses left: 1
+Enter a letter: a
+You already guessed this letter.
+
+Word: p _ _ _ o _
+Wrong guesses left: 1
+Enter a letter: v
+Wrong guess!
+
+Game Over!
+The correct word was: python
+
+[Program finished]
